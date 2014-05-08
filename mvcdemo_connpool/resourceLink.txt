@@ -1,0 +1,5 @@
+https://community.jboss.org/thread/170984?tstart=0
+
+st1: create file moudle.xml in jboss dir (modules)
+st2: config file standalone.xml in
+st3: code java

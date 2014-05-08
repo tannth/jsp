@@ -1,0 +1,5 @@
+<!-- Chúng ta đang dùng EL để lấy giá trị trong giỏ hàng của người dùng. Giỏ hàng người dùng là hashMap với cấu trúc chứa key và value, do vậy Object – BookDTO của chúng ta đang dùng sẽ là value add vào trong HashMap.
+						Khi chúng ta duyệt phần tử của HashMap bằng forEach, chúng ta mới chỉ trỏ con trỏ đến đầu từng phần tử (gồm 02 thứ đó là key và value). Do vậy, muốn lấy object thực sự chúng ta dùng get(key) – bản chất là getValue, nên EL được biểu diễn là rows.value – mỗi value kiểu BookDTO
+						Khi lấy từng property trong BookDTO chúng ta phải biểu diễn biểu thức là ${rows.value.property} ở đây là row.value.title. Tương tự như với quantity -->
+						
+						http://kieutrongkhanh.net/index.php/servlet-jsp/54-ng-dng-shopping-cart-s-dng-mvc-pattern-tren-web

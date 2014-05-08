@@ -1,0 +1,3 @@
+http://kieutrongkhanh.net/index.php/servlet-jsp/91-s-dng-request-listener-trong-j2ee-application
+http://www.journaldev.com/1945/servlet-listener-example-servletcontextlistener-httpsessionlistener-and-servletrequestlistener
+http://stackoverflow.com/questions/4720942/difference-between-filter-and-listener-in-servlet-java-ee
